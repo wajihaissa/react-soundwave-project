@@ -1,0 +1,37 @@
+.join{
+    display: flex;
+    margin: 0 auto;
+    justify-content: space-around;
+    width: 1000px;
+    height: 600px; ;
+    
+    align-items: center;
+    margin-top: 100px;
+}
+Form.Label{
+    font-size: 12px;
+}
+.frm{
+    width: 650px;
+    height: 500px;
+    margin-left: 300px;
+    margin-bottom: 100px;
+    background-color: 
+    #2166d5c2;
+padding: 100px 30px 0 19px;
+border: 2px solid;
+border-radius: 23px;
+}
+p{
+    font-size: 74px;
+    font-weight: 500;
+    margin-bottom: 30px;
+    
+}
+.fun{
+    font-size: 100px;
+    color: #eb2323c2;
+}
+.yassmine{
+    font-size:50px;
+}

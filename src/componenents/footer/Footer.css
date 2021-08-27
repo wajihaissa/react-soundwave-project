@@ -1,0 +1,50 @@
+
+.ftr {
+  width: 100%;
+  position: fixed;
+  bottom: 0;
+  height: 60px;
+  background-color: #212123;
+}
+.first {
+  display: flex;
+  justify-content: center;
+  width: 300px;
+
+  align-items: center;
+  margin-top: 10px;
+}
+/* .second img {
+  position: absolute; 
+} */
+.gg{
+    display: flex;
+    
+    width: 120px;
+    justify-content: space-around;
+    align-items: center;
+    position: relative;
+    
+    margin-bottom: 20px;
+    bottom: 30px;
+}
+.ff{
+    display: flex;
+   
+    width: 120px;
+    justify-content: space-around;
+    align-items: center;
+    position: relative;
+    
+    margin-bottom: 20px;
+    bottom: 30px;
+    margin-left: 20px;
+}
+.second {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    margin-bottom: 12px;
+
+}
+

@@ -1,0 +1,38 @@
+.landing{
+    display: flex;
+}
+.part{
+    position: absolute;
+    top: 270px;
+    left: 750px;
+}
+img{
+    height: 680px;
+}
+.home-page-circle-1{
+    position:absolute;
+    width:19vw;
+    height: 19vw;
+    border-radius:50% ;
+    background-color: rgba(143, 124, 248, 0.178);
+    bottom: 195px;
+    left:100px;
+}
+p{
+    font-size: 39px;
+}
+.home-page-circle-2{
+    position:absolute;
+    width:19vw;
+    height: 19vw;
+    border-radius:50% ;
+    background-color: rgba(242, 153, 245, 0.157);
+    bottom: 2px;
+    left:320px;
+    
+}
+
+.circles{
+    margin-top: 60px;
+    
+}

@@ -1,0 +1,15 @@
+p{
+    font-size: 17px;
+}
+.more{
+    width: 900px;
+    height: 400px;
+    position: relative;
+    
+    left: 300px;
+    top:100px;
+}
+.wajih{
+    font-family: 'Satisfy', cursive;
+    color: crimson;
+}
